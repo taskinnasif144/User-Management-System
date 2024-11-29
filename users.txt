@@ -1,0 +1,4 @@
+Dewan Nasif, 25, F, 70, 132
+KR Rodoshi, 24, F, 65, 128
+Nudu, 18, M, 60, 120
+Mahir Jarif, 29, M, 80, 90
